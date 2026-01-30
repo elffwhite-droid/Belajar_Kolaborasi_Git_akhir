@@ -3,7 +3,7 @@ print ("Program Biodata Sederhana Dengan Python")
 print ("=======================================")
  
 nama = "Zubair Aqwam"
-hobi = "Membantu mengoptimalkan \n                skill programming"
+hobi = "Membantu mengoptimalkan dan Melatih \n                skill programming"
 alamat = "Jalan Kalisombo No. 18"
 Kota = "Salatiga"
 Propinsi = "Jawa Tengah"
@@ -19,4 +19,5 @@ print ("Selamat Datang di",nama )
 print ("=======================================")
 print ("=======================================")
  
+
 
