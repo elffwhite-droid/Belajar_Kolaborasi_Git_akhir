@@ -4,4 +4,6 @@ Nama Lengkap Kamu : Hanif Faiz Alfarisy
 
 Saya senang belajar Git Source Control di Gamelab Indonesia
 
-nama
+nama hanif
+faiz 
+tugas akhir ini baru
